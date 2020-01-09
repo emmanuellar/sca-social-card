@@ -1,5 +1,6 @@
 import React from 'react';
 import img2 from './img2.jpg';
+import Button from './Button';
 import './App.css';
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
                   <h4><b>AMARACHI AZUBUIKE</b></h4> 
                   <p>Front End Web Developer <br/> (HTML, CSS, BS4, JS, React)</p>
                 </div>
-                 <button>Send Message</button>
+                 <Button />
               </div>
           </div>
       </div>
